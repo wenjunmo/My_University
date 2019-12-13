@@ -12,6 +12,7 @@ MD写作符号：
 - [WebDesign-GuideLines](https://github.com/galatigiuseppe/WebDesign-GuideLines/blob/master/WebDesign_Guidelines.md)
 - [git: 添加表情包 提升 github 仓库 逼格](https://blog.csdn.net/JNingWei/article/details/78869860)
 - [Github表情包的源头](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [最全的Emoj大集](https://emojipedia.org/apple/)
 
 建立网站：
 - [打造个性超赞博客 Hexo + NexT + GitHub Pages 的超深度优化](https://io-oi.me/tech/hexo-next-optimization/)
