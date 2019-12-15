@@ -267,3 +267,26 @@ Python 数据分析 14 天入门训练营  https://www.bilibili.com/video/av4225
 
 
 
+
++ this will be highlighted in green
+- this will be highlighted in red
+
+数据故事其实是可以来找到相关的数据来进行叙事接着来提及概念的解决办法，不只是将数据呈现再眼前可以是通过得出什么样子的结论来税负是不是会有更好的洞悉
+
+[采姑娘の大蘑菇](https://space.bilibili.com/12721139)
+[OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog)
+
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+
+
+
+
+Excel数据分析掌握的函数：
+日期函数：day,month,year,date,today,weekday,weeknum
+ 数学函数：product,rand,round,sum,sumif,sumproduct
+ 统计函数：large,small,max,min,rank,count,countif,average,averageif
+ 查找和引用函数：choose,match,index,column,row,vlookup,hlookup,lookup,offset
+ 文本函数：find,search,text,value,left,right,mid,len
+ 逻辑函数：and,or,if,false,true
