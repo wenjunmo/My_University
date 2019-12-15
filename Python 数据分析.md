@@ -166,5 +166,31 @@ B站上数据分析讲的比较好的视频：[2017-秦路-数据分析入门](h
 课时121：Python 连接数据库3
 课时122：Python 练习 markdown
 
+自己后面来花差不多1个半小时来查找这个·讲的比较好的视频是网易云课堂退出来的视频
+Python 数据分析 14 天入门训练营  https://www.bilibili.com/video/av42252246 链接已失效购买好贵不值得
+后面就是被B站可能是因为侵权给删掉了自己还没有看完知识看了及部分而已还是说有点可惜了
+无奈就是只能够用上面刚刚找到的秦路的来学一遍系统的
+湖面网盘里面也是有契约算法的数据分析也可以拿来试试
+
+
+[如何七周成为数据分析师 22：用 pandas 进行数据分析实战](http://www.woshipm.com/data-analysis/756741.html)
+
+还有下面的数据分析的课程都是可以来学习的下面的是可以来进行跟进的
+[台湾高校老师讲解《Python for Data Analysis》 -- part01](https://www.bilibili.com/video/av67994244/?spm_id_from=333.788.videocard.8)
+
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+[https://github.com/pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)
+
+
+
+还有我要自学网上面的两个视频也可以放进来
+
+
+
+[TED演讲：别不信，你只需20个小时，就能学会任何事情！](https://www.bilibili.com/video/av50668972/?spm_id_from=333.788.videocard.6)
+[如何成为一名优秀的设计师：罗子雄](https://www.bilibili.com/video/av38369053?from=search&seid=4683232185626274492)
+
+[在线教育网站（Coursera、网易云课堂、腾讯课堂等）有哪些值得推荐的 Python 课程？](https://www.zhihu.com/question/46835030)
+
 
 
