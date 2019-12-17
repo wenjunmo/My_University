@@ -1,5 +1,5 @@
 <div align="center">
-  <h1># My_University</h1>
+  <h1>My_University</h1>
   <p>我的本科四年生活及专业学习</p>
 </div>
 
