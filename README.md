@@ -3,6 +3,7 @@
   <p>我的本科四年生活及专业学习</p>
 </div>
 
+<div style=“color: red; text-align: center;”><h1>style=“text-align: center;”</h1></div>
 
 很多人不会居中对齐，其实就是使用了 html 的元素语法
 ```
