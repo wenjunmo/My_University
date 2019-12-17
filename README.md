@@ -15,6 +15,7 @@ MD写作符号：
 - [最全的Emoj大集](https://emojipedia.org/apple/)
 - [博客 Markdown 编辑器中插入 emoji 表情](https://blog.csdn.net/u014636245/article/details/82945997)
 - [Emoji Unicode Tables](https://apps.timwhitlock.info/emoji/tables/unicode#block-6c-other-missing-symbols)
+- [markdown的插入表情包汇总，以后使用这个就好了](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 建立网站：
 - [打造个性超赞博客 Hexo + NexT + GitHub Pages 的超深度优化](https://io-oi.me/tech/hexo-next-optimization/)
