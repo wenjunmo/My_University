@@ -1,10 +1,10 @@
-<center>居中对齐</center>
-<h1 style="text-align:center">居中对齐</h1>
-<h1 style="text-align:right">居中对齐</h1>
-<h1 style="text-align:left">居中对齐</h1>
+<div align="center">
+  <h1># My_University</h1>
+  <p>我的本科四年生活及专业学习</p>
+</div>
 
-# My_University
-我的本科四年生活及专业学习
+
+
 
 产品经理必读文档:
 - [安卓：design guide lines](https://material.io/design/guidelines-overview/)
