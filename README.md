@@ -1,3 +1,8 @@
+<center>居中对齐</center>
+<h1 style="text-align:center">居中对齐</h1>
+<h1 style="text-align:right">居中对齐</h1>
+<h1 style="text-align:left">居中对齐</h1>
+
 # My_University
 我的本科四年生活及专业学习
 
